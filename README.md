@@ -6,3 +6,5 @@ This project scraps the comments of a particular instagram post whose url will b
 - The file "emotions_csv" was also created during the testing of the program. It will be automatically created during the execution of comment_analysis.ipynb. It will store the comments and their respective emotions.
 - Selenium webdriver is used for the scraping of data.
 - Transformer pipeline "roberta-base-go_emotions" is used for getting the emotions of the sentences. Other models can also be used. 
+
+[![Watch the video](assets/CA_thumbnail.png)](assets/CA.mp4)
