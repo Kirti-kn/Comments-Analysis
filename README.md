@@ -7,4 +7,4 @@ This project scraps the comments of a particular instagram post whose url will b
 - Selenium webdriver is used for the scraping of data.
 - Transformer pipeline "roberta-base-go_emotions" is used for getting the emotions of the sentences. Other models can also be used. 
 
-[![Watch the video](assets/CA_thumbnail.png)](assets/CA.mp4)
+[![Watch the video](assests/CA_thumbnail.png)](assests/CA.mp4)
